@@ -1,3 +1,5 @@
+This repository will contain a high-fidelity mockup of the GreenKeeper Pro system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
