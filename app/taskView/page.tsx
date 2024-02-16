@@ -223,7 +223,7 @@ export default function Taskview() {
 }
 
 
-function Package2Icon(props) {
+function Package2Icon(props: any) {
   return (
     <svg
       {...props}
@@ -245,7 +245,7 @@ function Package2Icon(props) {
 }
 
 
-function HomeIcon(props) {
+function HomeIcon(props: any) {
   return (
     <svg
       {...props}
@@ -266,7 +266,7 @@ function HomeIcon(props) {
 }
 
 
-function ClipboardIcon(props) {
+function ClipboardIcon(props: any) {
   return (
     <svg
       {...props}
@@ -287,7 +287,7 @@ function ClipboardIcon(props) {
 }
 
 
-function UsersIcon(props) {
+function UsersIcon(props: any) {
   return (
     <svg
       {...props}
@@ -310,7 +310,7 @@ function UsersIcon(props) {
 }
 
 
-function BarChartIcon(props) {
+function BarChartIcon(props: any) {
   return (
     <svg
       {...props}
@@ -332,7 +332,7 @@ function BarChartIcon(props) {
 }
 
 
-function SearchIcon(props) {
+function SearchIcon(props: any) {
   return (
     <svg
       {...props}
@@ -353,7 +353,7 @@ function SearchIcon(props) {
 }
 
 
-function FileEditIcon(props) {
+function FileEditIcon(props: any) {
   return (
     <svg
       {...props}
@@ -375,7 +375,7 @@ function FileEditIcon(props) {
 }
 
 
-function TrashIcon(props) {
+function TrashIcon(props: any) {
   return (
     <svg
       {...props}
